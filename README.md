@@ -1,10 +1,10 @@
 # Huffman-compressor-and-de-compressor
 This algorithm can compress a large text for instance a Sherlock Holmes novel and another algorithm can DE-compress the compressed text. 
 ''' diff
--INTRODUCTION
+-INTRODUCTION '''
 Huffman coding is an encoding technique which is used in data compression.The idea involves assigning particular binary numbers(called codewords) to all letters based on their frequency of occurrence.The assigning of codewords is done in such a way that no codeword is a prefix of any other codeword.It uses the idea of a binary tree to assign a unique codeword to every letter.
 
--GETTING STARTED '''
+-GETTING STARTED 
 There are two major parts in Huffman Coding:
 1) Build a Huffman Tree from input characters.
 2) Traverse the Huffman Tree and assign codes to characters.
